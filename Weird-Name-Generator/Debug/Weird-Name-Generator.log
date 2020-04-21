@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\dtle6\source\repos\weird-name-generator\weird-name-generator\source.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Weird-Name-Generator.vcxproj -> C:\Users\dtle6\source\repos\Weird-Name-Generator\Debug\Weird-Name-Generator.exe
